@@ -142,7 +142,7 @@ Las pruebas incluidas cubren audio, modos de disparo, MIDI, bancos, listas, stre
 
 ## Alcance de la 0.6 y próximos pasos
 
-La 0.6 incorpora la reproducción musical como primer paso hacia una app de continuidad para radio y streaming. **Todavía no reemplaza todas las funciones de ZaraRadio.**
+La 0.6 incorpora la reproducción musical como primer paso hacia una app de continuidad para radio y streaming.
 
 - Los pads tienen una voz por pad y no incluyen bucle; la música puede repetir la lista.
 - WAV y MP3 están probados; otros formatos dependen de los decodificadores disponibles en Windows/NAudio.
