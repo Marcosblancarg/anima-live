@@ -155,4 +155,4 @@ La evolución prevista incluye programación horaria, tandas, rotaciones y herra
 
 ## Créditos y licencias de dependencias
 
-Anima Live usa **NAudio 2.2.1** y **.NET 10**. Las licencias y avisos de terceros están en [`licenses/`](licenses). El repositorio se mantiene privado; esta publicación no añade una licencia de código abierto al código propio de Anima Live.
+Anima Live usa **NAudio 2.2.1** y **.NET 10**. Las licencias y avisos de terceros están en [`licenses/`](licenses).
