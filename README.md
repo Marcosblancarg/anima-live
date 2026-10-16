@@ -22,11 +22,11 @@ Anima Live reúne efectos, separadores, cortinas y música de espera. Dispará s
 |---|---|---|
 | 64 sonidos en cuatro páginas, MIDI y editor de samples. | Audio Explorer, listas y cola Main Music con Title y Length. | Faders y vúmetros independientes para pads y música. |
 
-![Reproductor con Audio Explorer, Main Music, reloj y master](docs/images/reproductor.png)
+![Vista Pads: cuatro páginas, editor de audio y master](docs/images/pads.png)
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/images/pads.png" alt="Vista Pads: cuatro páginas y editor de audio"></td>
+    <td width="50%"><img src="docs/images/reproductor.png" alt="Vista Reproductor: Audio Explorer, Main Music, reloj y master"></td>
     <td width="50%"><img src="docs/images/mixer.png" alt="Vista Mixer: canales Pads y Música con faders y vúmetros"></td>
   </tr>
 </table>
