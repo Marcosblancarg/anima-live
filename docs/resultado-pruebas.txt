@@ -1,0 +1,5 @@
+PASS: pads WAV/MP3, modos, recorte, ganancia, mezcla, MIDI, páginas, bancos, vúmetro, Pad Focus y búfer WASAPI.
+PASS: música desde disco, archivo de 16 minutos con memoria limitada, precarga, avance sin huecos, crossfade estéreo, pausa, búsqueda, repetición, parada al terminar y archivos faltantes.
+PASS: M3U8/PLS con Unicode, mixer independiente, mute, faders y pisado de música.
+PASS: pestañas Pads/Reproductor/Mixer, reloj y distribución entre 640x480 y 1280x680; 16 pads sin scroll en vista de vivo.
+Pruebas offline: no se abrió ni modificó ningún dispositivo de audio.

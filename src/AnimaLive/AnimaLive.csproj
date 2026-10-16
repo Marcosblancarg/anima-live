@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>AnimaLivePad</AssemblyName>
+    <RootNamespace>src</RootNamespace>
+    <Version>0.6.0</Version>
+    <ApplicationIcon>Assets/Anima.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <Resource Include="Assets/Anima.ico" />
+  </ItemGroup>
+</Project>

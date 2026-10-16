@@ -1,0 +1,42 @@
+# Compilación y herramientas
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+artifacts/
+publish/
+TestResults/
+
+# Distribuciones: se publican en Releases
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Configuración local, bancos y audios del usuario
+*-settings.json
+*.anima
+*.airepads
+*.wav
+*.mp3
+*.flac
+*.aif
+*.aiff
+*.m4a
+*.ogg
+*.wma
+*.m3u
+*.m3u8
+*.pls
+
+# Credenciales y archivos temporales
+.env
+.env.*
+*.pem
+*.key
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
