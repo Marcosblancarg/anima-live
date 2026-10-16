@@ -151,7 +151,7 @@ La 0.6 incorpora la reproducción musical como primer paso hacia una app de cont
 - Los medidores muestran picos de muestras y RMS; no calculan LUFS ni true peak.
 - No incluye EQ, filtros, ASIO ni salidas independientes por pad.
 
-La evolución prevista incluye programación horaria, tandas, rotaciones y herramientas de continuidad. Su alcance y fechas se definirán para las próximas versiones. La validación prolongada en el equipo de emisión y el ruteo físico de la Audient iD24 siguen pendientes.
+La evolución prevista incluye programación horaria, tandas, rotaciones y herramientas de continuidad.
 
 ## Créditos y licencias de dependencias
 
